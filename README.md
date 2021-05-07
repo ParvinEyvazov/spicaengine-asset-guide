@@ -4,7 +4,7 @@ Priority is simplicity.
 
 ## Aim
 
-- [ ] How to create Asset manually?
+- [ ] [How to create Asset manually?](DOCS/CREATE_ASSET.md)
 
 - [ ] How to integrate Asset to SpicaEngine instance Manually?
 
