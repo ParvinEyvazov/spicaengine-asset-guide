@@ -1,10 +1,11 @@
 # SpicaEngine Asset Guide
+
 Priority is simplicity.
 
 ## Aim
 
-- [ ] Creating Asset Manually
+- [ ] How to create Asset manually?
 
-- [ ] Add Asset to SpicaEngine instance Manually
+- [ ] How to integrate Asset to SpicaEngine instance Manually?
 
 :heavy_check_mark: empty
