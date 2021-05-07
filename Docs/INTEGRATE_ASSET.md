@@ -47,9 +47,13 @@ spica apply -f <ASSET_YAML_PATH>
 ```
 
 ```
-<API_URL>   API url of your server. Generally "https://server_url.com/api"
+<API_URL>   API url of your server. Generally "https://server_url.com/api".
 ```
 
 ```
-<ASSET_YAML_PATH>   Path of the asset's yaml file. If in the same file with .yaml just type yaml_name.yaml
+<ASSET_YAML_PATH>   Path of the asset's yaml file. If in the same file with .yaml just type yaml_name.yaml.
+```
+
+```
+--ignore-not-found  This option will ignore the error messages if it will not find related asset.
 ```
