@@ -1,6 +1,6 @@
 # SpicaEngine Asset Guide
 
-## updated for Spica **version 0.8.8**
+<h1> updated for Spica **version 0.8.8** </h1>
 
 Priority is simplicity.
 
