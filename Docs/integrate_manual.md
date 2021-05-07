@@ -1,4 +1,4 @@
-# Integrate Asset
+# Integrate Asset manually
 
 This file is for "How to Integrate Asset Manually to your SpicaEngine Server or Instance".
 
