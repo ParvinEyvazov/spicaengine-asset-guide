@@ -8,6 +8,4 @@ Spica is an [open source](https://github.com/spica-engine/spica) powerful backen
 
 - [ ] [Create Asset](https://github.com/ParvinEyvazov/spicaengine-asset-guide/blob/master/Docs/CREATE_ASSET.md)
 
-- [ ] [Integrate Asset](https://github.com/ParvinEyvazov/spicaengine-asset-guide/blob/master/Docs/INTEGRATE_ASSET.md)
-
-:heavy_check_mark: empty
+:heavy_check_mark: [Integrate Asset](https://github.com/ParvinEyvazov/spicaengine-asset-guide/blob/master/Docs/INTEGRATE_ASSET.md)
