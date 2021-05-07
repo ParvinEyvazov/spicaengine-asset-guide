@@ -1,6 +1,6 @@
 # Integrate Asset manually
 
-This file is for "How to Integrate Asset Manually to your SpicaEngine Server or Instance".
+This file is for "How to Integrate Asset Manually to your SpicaEngine Server or Instance?".
 
 ### **0. Install Spica CLI (as globally)**
 
@@ -39,7 +39,7 @@ spica apply -f <ASSET_YAML_PATH>
 ## Terminology
 
 ```
-<UNIQUE_NAME>   |It should be unique name for spica server in your computer. You can name whatever you want.
+<UNIQUE_NAME>   |It should be a unique name for the spica server on your computer. You can name whatever you want.
 ```
 
 ```
@@ -55,5 +55,5 @@ spica apply -f <ASSET_YAML_PATH>
 ```
 
 ```
---ignore-not-found  |This option will ignore the error messages if it will not find related asset.
+--ignore-not-found  |This option will ignore the error messages if it will not find the related asset.
 ```

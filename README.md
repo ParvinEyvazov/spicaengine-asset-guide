@@ -11,7 +11,7 @@ Spica is an [open source](https://github.com/spica-engine/spica) powerful backen
 
 ---
 
-This repo is a brief description of Asset operations such as _creating_, _integrating_ and more. For detailed information please visit [docs](https://spicaengine.com/docs/guide).
+This repo is a brief description of Asset operations such as _creating_, _integrating_, and more. For detailed information please visit [docs](https://spicaengine.com/docs/guide).
 
 - [Integrate Asset manually](https://github.com/ParvinEyvazov/spicaengine-asset-guide/blob/master/Docs/integrate_manual.md)
 
