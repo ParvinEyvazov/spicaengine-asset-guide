@@ -36,7 +36,7 @@ spica apply -f <ASSET_YAML_PATH>
 
 ---
 
-> ## Terminology
+## Terminology
 
 ```
 <UNIQUE_NAME>   should be unique name for spica server.  You can name whatever you want.
