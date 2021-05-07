@@ -2,7 +2,7 @@
 
 This file is for "How to Integrate Asset Manually to your SpicaEngine Server or Instance".
 
-### **0. Install Spica CLI (as global)**
+### **0. Install Spica CLI (as globally)**
 
 ```bash
 npm i -g @spica/cli
@@ -39,7 +39,7 @@ spica apply -f <ASSET_YAML_PATH>
 ## Terminology
 
 ```
-<UNIQUE_NAME>   |It should be unique name for spica server in your computer.  You can name whatever you want.
+<UNIQUE_NAME>   |It should be unique name for spica server in your computer. You can name whatever you want.
 ```
 
 ```
