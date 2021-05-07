@@ -32,8 +32,24 @@ spica delete -f <ASSET_YAML_PATH> --ignore-not-found
 spica apply -f <ASSET_YAML_PATH>
 ```
 
-**Congratulations, Asset successfully integrated.**
+> **Congratulations, Asset successfully integrated.**
 
 ---
 
-## Terminology
+> ## Terminology
+
+```
+<UNIQUE_NAME>   should be unique name for spica server.  You can name whatever you want.
+```
+
+```
+<API_KEY>   API key from your server. It should have "Strategy Full Access" in policies.
+```
+
+```
+<API_URL>   API url of your server. Generally "https://server_url.com/api"
+```
+
+```
+<ASSET_YAML_PATH>   Path of the asset's yaml file. If in the same file with .yaml just type yaml_name.yaml
+```
