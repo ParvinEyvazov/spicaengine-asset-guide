@@ -1,3 +1,3 @@
 # Create Asset manually
 
-> coming soon
+> coming soon...

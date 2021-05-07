@@ -1,3 +1,3 @@
 # Integrate Asset automatically
 
-> coming soon
+> coming soon...
