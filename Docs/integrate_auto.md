@@ -1,1 +1,1 @@
-# Integrate Asset automatically.
+# Integrate Asset automatically

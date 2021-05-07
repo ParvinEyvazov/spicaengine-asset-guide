@@ -1,1 +1,1 @@
-# Create Asset automatically.
+# Create Asset automatically
