@@ -1,8 +1,8 @@
-# SpicaEngine Asset Guide
+# SpicaEngine Asset Guide (**version 0.8.8**)
 
-<h1> updated for Spica **version 0.8.8** </h1>
+> Priority is simplicity.
 
-Priority is simplicity.
+Spica is an [open source](https://github.com/spica-engine/spica) powerful backend development engine. For more info [click here](https://spicaengine.com/).
 
 ## Aim
 
