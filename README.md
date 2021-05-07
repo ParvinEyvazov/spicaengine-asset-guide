@@ -2,7 +2,11 @@
 
 > Priority is simplicity.
 
-Spica is an [open source](https://github.com/spica-engine/spica) powerful backend development engine. For more info [click here](https://spicaengine.com/).
+Spica is an [open source](https://github.com/spica-engine/spica) powerful backend development engine. For more info [click here](https://spicaengine.com/). Also for [docs](https://spicaengine.com/docs/guide).
+</br>
+</br>
+
+This repo is a brief description of Asset Creating and Integrating it to Spica Server or Instance. For detailed information please visit [docs](https://spicaengine.com/docs/guide).
 
 ## Aim
 
